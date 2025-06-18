@@ -1,6 +1,6 @@
 <!-- Bio -->
 
-# 👋 Hi, I'm Kevin!
+# 👋 Hi, I'm Kevin Wong!
 
 - Aspiring Software Engineer documenting my journey and learning in tech
 - Studied Computer Science and Data Science at **Rutgers University, New Brunswick**
